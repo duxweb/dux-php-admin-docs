@@ -5,12 +5,6 @@ on:
   # 当推送到 main 分支时触发
   push:
     branches: [ "main" ]
-    paths:
-      - '**/*.md'
-      - '.vitepress/**'
-      - 'package.json'
-      - 'pnpm-lock.yaml'
-      - '.github/workflows/deploy.yml'
 
   # 允许手动触发
   workflow_dispatch:
