@@ -4,8 +4,8 @@ layout: home
 
 hero:
   name: "Dux PHP Admin"
-  text: "现代化PHP后台管理系统解决方案"
-  tagline: 基于 dux-lite 和 DVHA，前后端分离架构，企业级管理系统开发框架
+  text: "前后端不分离的 PHP 解决方案"
+  tagline: 基于 dux-lite 和 DVHA的企业级管理系统开发框架
   actions:
     - theme: brand
       text: 快速开始
