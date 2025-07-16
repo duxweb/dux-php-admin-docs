@@ -6,6 +6,7 @@ export default defineConfig({
   description: "现代化PHP后台管理系统解决方案，基于 dux-lite 和 DVHA，前后端分离架构，企业级管理系统开发框架",
   lang: 'zh-CN',
   base: '/',
+  ignoreDeadLinks: true,
 
   head: [
     ['link', { rel: 'icon', href: '/favicon.ico' }],
