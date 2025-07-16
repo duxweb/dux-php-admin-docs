@@ -3,6 +3,7 @@ logs
 .vitepress/cache
 .vitepress/dist
 .claude
+.cunzhi-memory
 
 
 # compiled output
