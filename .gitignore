@@ -1,6 +1,7 @@
 *.iml
 logs
 .vitepress/cache
+.claude
 
 
 # compiled output

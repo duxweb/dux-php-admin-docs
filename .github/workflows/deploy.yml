@@ -8,6 +8,7 @@ on:
   push:
     branches: [ "v2" ]
     paths:
+      - '**'
       - '.github/workflows/deploy.yml'
 
   # 允许手动触发
@@ -68,3 +69,4 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+

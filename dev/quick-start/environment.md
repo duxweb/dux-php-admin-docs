@@ -237,7 +237,7 @@ FLUSH PRIVILEGES;
 
 创建 `.env` 文件：
 
-```env
+```bash
 # 数据库配置
 DB_HOST=localhost
 DB_PORT=3306
