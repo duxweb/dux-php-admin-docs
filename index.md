@@ -11,9 +11,6 @@ hero:
       text: 快速开始
       link: /guide/getting-started
     - theme: alt
-      text: 查看演示
-      link: https://demo.dux.cn
-    - theme: alt
       text: GitHub
       link: https://github.com/duxweb/dux-php-admin
 
