@@ -213,7 +213,7 @@ export default defineConfig({
     ],
 
     footer: {
-      message: '基于 <a href="https://github.com/duxweb/dux-php-admin/blob/main/LICENSE">Apache 2.0</a> 协议发布',
+      message: '基于 <a href="https://github.com/duxweb/dux-php-admin/blob/main/LICENSE">MIT</a> 协议发布',
       copyright: 'Copyright © 2024-present <a href="https://www.dux.cn">DuxWeb Team</a>'
     },
 
