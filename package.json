@@ -1,0 +1,31 @@
+{
+  "name": "dux-php-docs",
+  "version": "1.0.0",
+  "description": "Dux PHP Admin 官方文档",
+  "type": "module",
+  "scripts": {
+    "dev": "vitepress dev",
+    "build": "vitepress build",
+    "preview": "vitepress preview",
+    "docs:dev": "vitepress dev",
+    "docs:build": "vitepress build",
+    "docs:preview": "vitepress preview"
+  },
+  "devDependencies": {
+    "vitepress": "^1.6.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/duxweb/dux-php-docs.git"
+  },
+  "keywords": [
+    "dux",
+    "php",
+    "admin",
+    "documentation",
+    "vitepress"
+  ],
+  "author": "DuxWeb",
+  "license": "MIT",
+  "homepage": "https://docs.dux.cn"
+}
